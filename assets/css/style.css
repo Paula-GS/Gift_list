@@ -34,7 +34,7 @@ h5 {
   
 .box  {
     color: #DBC7A9;
-    background-color: rgba(19, 59, 82, 0.8); /*the 0.6 is the intensity of the background color*/
+    background-color: rgba(19, 59, 82, 0.8); /*the 0.8 is the intensity of the background color*/
     border-radius: 10px; /*this is the roundness of the corner*/
     padding: 15px;
     text-align: justify; 
